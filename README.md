@@ -1,5 +1,5 @@
 
-#### TimeThreads
+##### TimeThreads
 
 #### Description:
 The Timeline Generator transforms unstructured Wikipedia biography text and other Wikipedia content into structured, visually compelling timelines using NLP spaCy Library and other python librares. By automating the extraction and classification of life events, it creates visual representations (text tables) that reveal the narrative arc of a person's life at a glance.
