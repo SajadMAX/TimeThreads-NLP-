@@ -7,12 +7,17 @@ The Timeline Generator transforms unstructured Wikipedia biography text and othe
 ##### Core Architecture
 
 1.Text Processing Pipeline
+
 Input: Raw Wikipedia biography text
 Cleaning: Removes citations , non-biographical sections, and irrelevant markup
 Sentence Segmentation: Splits text into individual events using NLP sentence boundaries
+
 2.Event Extraction Engine
+
 3.AI-Powered Classification
+
 Uses NLP tokenize word  to extract words from sentences and then write a python function to categorize events:
+
 BIRTH, DEATH, EDUCATION, CAREER, AWARD, PUBLICATION, MARRIAGE
 Context-aware classification:
 "Elected to Royal Society" → AWARD
