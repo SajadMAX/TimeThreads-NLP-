@@ -36,7 +36,7 @@ Event summarization:
 Original: "He was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect"
 Output: "Nobel Prize in Physics (photoelectric effect)"
 
-here is example of data output in .txt format:
+#here is example of data output in text format:
 
 
 ------------------------------------------------------------
